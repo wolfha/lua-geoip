@@ -1,0 +1,9 @@
+Package: liblua5.1-geoip0
+Version: 0.1
+Section: utils
+Priority: optional
+Architecture: i386
+Depends: liblua5.1-0, libc6
+Maintainer: augmented logic <dev@augmentedlogic.com>
+Description: simple lua binding to GeoIp lookup by country code
+ yet another simple implementation of GeoIp lookup by country code for lua

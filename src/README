@@ -1,0 +1,7 @@
+This is a simple binding of GeoIP to lua.
+
+The only thing it does is providing a binding to 
+GeoIP_country_code_by_name().
+
+see examples/test.lua for more
+
